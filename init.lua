@@ -1,0 +1,12 @@
+require('user.opts')
+require('user.keys')
+require('user.plugins')
+require('user.colorscheme')
+require('user.nvimtree')
+require('user.lualine')
+require('user.treesitter')
+require('user.cmp')
+require('user.lsp')
+require('user.telescope')
+require('user.autopairs')
+
